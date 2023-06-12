@@ -49,12 +49,19 @@ img {
 .meta {
     border-radius: 10px;
    border: 5px solid;
-   margin: 5px;
+   margin-left: 450px;
    padding-left: 3px;
    padding-top: 3px;
    padding-bottom: 3px;
    padding-right: 3px;
    background: gray;
+   width: 500px;
+   text-align: center;
+   left:100px;
+}
+
+.meta> img{
+    text-align: center;
 }
 
 h3 {
@@ -100,6 +107,7 @@ h4 {
 
 .information {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
 }
 
 h5 {
